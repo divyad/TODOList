@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TODOTasks</string>
+    <string name="action_settings">Settings</string>
+    <string name="today_tk"><u><b><i>Today\'s Task</i></b></u></string>
+    <string name="create_tk"><u><b><i>Create Task</i></b></u></string>
+
+</resources>
