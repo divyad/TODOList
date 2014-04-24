@@ -27,7 +27,6 @@ public class MainActivity extends Activity {
     switch (item.getItemId()) {
     // action with ID action_refresh was selected
     case R.id.action_refresh:
-      
       Intent intent = new Intent(this, AddNewTaskActivity.class);
       intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
       startActivity(intent);
